@@ -12,9 +12,8 @@ var expectedCountOfWordsToTranslate = 3
 
 // Write a loop to actually collect the expected count of words to be translated from user
 
-// PROCESS
-// Implement the primary logic of the problem here
-// Some output may be given here if you desire
+
+// PROCESS & OUTPUT
 
 // NOTE:
 //
@@ -35,8 +34,6 @@ print("The reversed word is: \(reversedWord)")
 var originalWord = String(reversedWord.reversed())
 print("The reversed word, reversed again is: \(originalWord)")
 
-
-// PROCESS & OUTPUT
 // Collect the words to be translated
 for counter in 1...expectedCountOfWordsToTranslate {
     
