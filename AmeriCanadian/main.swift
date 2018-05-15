@@ -11,6 +11,7 @@ import Foundation
 var expectedCountOfWordsToTranslate = 3
 
 // Write a loop to actually collect the expected count of words to be translated from user
+// e.g.: write the rest of the INPUT section
 
 
 // PROCESS & OUTPUT
