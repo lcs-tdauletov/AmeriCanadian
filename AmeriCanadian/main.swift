@@ -8,7 +8,7 @@ import Foundation
 // INPUT
 
 // Global variable, tracks how many words we can expect to have to translate
-var expectedCountOfWordsToTranslate = 3
+var countOfExpectedWordsToTranslate = 3
 
 // Write a loop to actually collect the expected count of words to be translated from user
 // e.g.: write the rest of the INPUT section
@@ -36,7 +36,7 @@ var originalWord = String(reversedWord.reversed())
 print("The reversed word, reversed again is: \(originalWord)")
 
 // Collect the words to be translated
-for counter in 1...expectedCountOfWordsToTranslate {
+for counter in 1...countOfExpectedWordsToTranslate {
     
     // Prompt for a word
     print("Enter word #\(counter):")
