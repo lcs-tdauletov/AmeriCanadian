@@ -50,7 +50,7 @@ for counter in 1...countOfExpectedWordsToTranslate {
     
     // Add your logic here...
     // Determine if word is "American" and translate if necessary
-    print(givenInput)
+    print("The given input was: \(givenInput)")
     
 }
 
