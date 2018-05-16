@@ -23,7 +23,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0E11DF7520AB533D00A4CDF9 /* AmeriCanadian.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = AmeriCanadian.pdf; sourceTree = "<group>"; };
 		0E4F377620750C2400E1C552 /* AmeriCanadian */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AmeriCanadian; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E4F377920750C2500E1C552 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8134C28620A469D4002EFBB0 /* Test Plan.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Test Plan.txt"; sourceTree = "<group>"; };
@@ -60,7 +59,6 @@
 			isa = PBXGroup;
 			children = (
 				0E4F377920750C2500E1C552 /* main.swift */,
-				0E11DF7520AB533D00A4CDF9 /* AmeriCanadian.pdf */,
 				8134C28620A469D4002EFBB0 /* Test Plan.txt */,
 			);
 			path = AmeriCanadian;
